@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+
+# OpenFOAM: keep case setup (0/, constant/, system/), ignore solver output
+cfd/cases/*/processor*/
+cfd/cases/*/postProcessing/
+cfd/cases/*/[1-9]*/
+cfd/cases/*/0.[0-9]*/
+cfd/cases/*/constant/polyMesh/
+cfd/cases/*/log.*
+*.foam
+
+# Fusion 360 / slicer temp files
+*.f3d.bak
+~$*
+*.gcode
+*.bgcode
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini

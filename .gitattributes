@@ -1,0 +1,11 @@
+# Big binary files go through Git LFS (Large File Storage) so the repo stays fast.
+# Run `git lfs install` once on your computer before committing these.
+*.stl  filter=lfs diff=lfs merge=lfs -text
+*.step filter=lfs diff=lfs merge=lfs -text
+*.stp  filter=lfs diff=lfs merge=lfs -text
+*.f3d  filter=lfs diff=lfs merge=lfs -text
+*.3mf  filter=lfs diff=lfs merge=lfs -text
+*.mp4  filter=lfs diff=lfs merge=lfs -text
+*.mov  filter=lfs diff=lfs merge=lfs -text
+*.bbl  filter=lfs diff=lfs merge=lfs -text
+*.BFL  filter=lfs diff=lfs merge=lfs -text
