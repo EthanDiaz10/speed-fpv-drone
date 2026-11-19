@@ -17,11 +17,14 @@ This repo is the record of that process. It is meant to show **how** the design 
 
 ## Goals
 
-| Phase | Target | What success looks like |
+| Version | Target | The question it answers |
 |---|---|---|
-| v0.x | Learn + first flight | A printed airframe that hovers, flies stably, and survives a crash or two |
-| v1 | **250 to 300 km/h** | GPS-verified top speed in this range, with CFD and sizing calcs that predicted it |
-| v2+ | Push toward record territory | Each version beats the last, with data showing why |
+| v0 | ~150 km/h | Can I build, tune and fly a standard 5" FPV quad and log its speed? |
+| v1 | **~200 km/h** | Can I make a printed rocket-layout quad that is stable and controllable? |
+| v2 | **250 to 300 km/h** | How much speed do CFD, a thrust stand and better props/motors buy? |
+| v3 | 350+ km/h | Can I reach the 2022 world-record / Red Bull chase drone level? |
+
+For context, the ratified Guinness record is 657.59 km/h (Peregreen V4, Dec 2025). Full background, physics and roadmap: [docs/research/01-speed-drone-research.md](docs/research/01-speed-drone-research.md).
 
 ## Tools
 

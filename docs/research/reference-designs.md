@@ -6,14 +6,13 @@ Notes on existing speed drones. Fill in and correct the numbers as you research.
 
 | Design | Notes |
 |---|---|
-| **Red Bull Drone 4** (Dutch Drone Gods / Rene Sebastian) | F1 chase drone. Tall fuselage with camera in the nose, four motors on short orange arms. Widely reported at roughly 350 km/h top speed and very fast acceleration ❓ verify |
+| **Red Bull Drone 1** (Dutch Drone Gods / Rene Sebastian) | F1 chase drone. Tall fuselage with camera in the nose, four motors on short orange arms. 350 km/h top speed, 0 to 300 km/h in about 2 to 4 s, under 1 kg (see research doc for sources) |
 | White rocket-body build | Clear canopy nose, bullet fuselage, two short wings each holding a motor pair at the tips (rear motors pusher-style below). Good example of a simpler printable layout |
 | Dark "stealth" build | Body with blended wings, motors inside streamlined nacelles with pointed spinners. Shows how far fairing the motors can go |
 
-## Speed records to research
+## Speed records
 
-- Guinness record for fastest battery-powered RC quadcopter (Peregreen series by Mike and Luke Bell). Record has been raised several times; look up the current value and date ❓
-- What changed between record attempts (motors, voltage, aero, props)
+Full record history and analysis is in [01-speed-drone-research.md](01-speed-drone-research.md). Current ratified Guinness record: 657.59 km/h, Peregreen V4 (Luke and Mike Bell), 11 Dec 2025.
 
 ## Questions to answer
 
