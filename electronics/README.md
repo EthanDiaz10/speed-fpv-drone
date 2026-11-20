@@ -8,7 +8,7 @@ Prices are approximate (US, Nov 2026). Check before buying.
 
 | Part | Model | Qty | Mass (g) | Price (USD) | Link | Why this one |
 |---|---|---|---|---|---|---|
-| Frame (v0 only) | Printed 5" X frame, PETG-CF or PA-CF | 1 + spare arms | 140 | 10 (filament) | Printed on the K2 Pro | No frame to buy. Designing it in Fusion 360 is a good warm-up for the v1 body. Replaced by the printed rocket body in v1 |
+| Frame (v0 only) | Printed 5" X frame, PETG-CF or PA-CF | 1 + spare bottom plate | 140 | 10 (filament) | Printed on the K2 Pro | No frame to buy. Designing it in Fusion 360 is a good warm-up for the v1 body. Replaced by the printed rocket body in v1 |
 | Motors | Emax ECO II 2207, 1900KV | 4 | 33 each | 14 each | [RDQ](https://www.racedayquads.com/search?q=emax+eco+ii+2207) | Budget 6S 5" motor. 1900KV on 6S gives the pitch speed needed for about 200 km/h |
 | Props | HQProp 5.1x5.1x3, bulk pack | 4 + spares | 4.5 each | 3 per set | [RDQ](https://www.racedayquads.com/search?q=hqprop+5.1x5.1x3) | Common, cheap, durable. Higher-pitch props come later for speed runs |
 | FC + ESC stack | SpeedyBee F7 V3 stack (F722 FC + 50A 4-in-1 ESC), 30x30 | 1 | 24 | 85 | [RDQ](https://www.racedayquads.com/products/speedybee-v3-f722-3-6s-30x30-stack-combo-f722-fc-50a-32bit-4in1-esc) | F7 running Betaflight with Blackbox logging. Sold as a matched pair, and set up from a phone app, which is easy for a first build |
@@ -36,7 +36,7 @@ Rough total: about $770. That is about $360 for the parts that fly, $295 for gog
 ## Notes
 
 - Budget first: the speed comes mostly from the printed body, so the electronics only need to be good enough.
-- All frames and bodies are printed, not bought. Printed arms break more easily than carbon ones, so print spares. They cost very little.
+- All frames and bodies are printed, not bought. Printed arms break more easily than carbon ones, so print a spare bottom plate. They cost very little.
 - Everything is matched to 6S. Moving to 8S in v2 means a new motor set and an 8S stack (for example Foxeer F722 V4 X8 + Reaper 65A, about $130). v0 and v1 don't need them, so that cost waits until v2.
 - Keep antennas (O4, receiver) and the GPS away from carbon-fibre parts. Carbon blocks radio signals.
 

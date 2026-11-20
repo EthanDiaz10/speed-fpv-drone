@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 470" width="440" height="470" font-family="sans-serif" font-size="12">
+<rect width="440" height="470" fill="white"/>
+<circle cx="108.6" cy="108.6" r="90.6" fill="none" stroke="#999" stroke-dasharray="4 3"/>
+<circle cx="331.4" cy="108.6" r="90.6" fill="none" stroke="#999" stroke-dasharray="4 3"/>
+<circle cx="108.6" cy="331.4" r="90.6" fill="none" stroke="#999" stroke-dasharray="4 3"/>
+<circle cx="331.4" cy="331.4" r="90.6" fill="none" stroke="#999" stroke-dasharray="4 3"/>
+<polygon points="227.9,212.1 116.6,100.7 100.7,116.6 212.1,227.9" fill="#ddd" stroke="#333" stroke-width="1"/>
+<polygon points="227.9,227.9 339.3,116.6 323.4,100.7 212.1,212.1" fill="#ddd" stroke="#333" stroke-width="1"/>
+<polygon points="212.1,212.1 100.7,323.4 116.6,339.3 227.9,227.9" fill="#ddd" stroke="#333" stroke-width="1"/>
+<polygon points="212.1,227.9 323.4,339.3 339.3,323.4 227.9,212.1" fill="#ddd" stroke="#333" stroke-width="1"/>
+<polygon points="248.0,276.0 248.0,164.0 192.0,164.0 192.0,276.0" fill="#ddd" stroke="#333" stroke-width="1"/>
+<circle cx="108.6" cy="108.6" r="22.4" fill="#ddd" stroke="#333" stroke-width="1"/>
+<circle cx="331.4" cy="108.6" r="22.4" fill="#ddd" stroke="#333" stroke-width="1"/>
+<circle cx="108.6" cy="331.4" r="22.4" fill="#ddd" stroke="#333" stroke-width="1"/>
+<circle cx="331.4" cy="331.4" r="22.4" fill="#ddd" stroke="#333" stroke-width="1"/>
+<polygon points="225.9,212.1 116.6,102.7 102.7,116.6 212.1,225.9" fill="#ddd"/>
+<polygon points="227.9,225.9 337.3,116.6 323.4,102.7 214.1,212.1" fill="#ddd"/>
+<polygon points="212.1,214.1 102.7,323.4 116.6,337.3 225.9,227.9" fill="#ddd"/>
+<polygon points="214.1,227.9 323.4,337.3 337.3,323.4 227.9,214.1" fill="#ddd"/>
+<polygon points="246.6,274.6 246.6,165.4 193.4,165.4 193.4,274.6" fill="#ddd"/>
+<polygon points="244.5,272.5 244.5,167.5 195.5,167.5 195.5,272.5" fill="none" stroke="#c60" stroke-dasharray="6 3"/>
+<circle cx="108.6" cy="108.6" r="5.6" fill="white" stroke="#333"/>
+<circle cx="124.5" cy="108.6" r="2.2" fill="white" stroke="#333"/>
+<circle cx="108.6" cy="92.8" r="2.2" fill="white" stroke="#333"/>
+<circle cx="92.8" cy="108.6" r="2.2" fill="white" stroke="#333"/>
+<circle cx="108.6" cy="124.5" r="2.2" fill="white" stroke="#333"/>
+<circle cx="331.4" cy="108.6" r="5.6" fill="white" stroke="#333"/>
+<circle cx="331.4" cy="124.5" r="2.2" fill="white" stroke="#333"/>
+<circle cx="347.2" cy="108.6" r="2.2" fill="white" stroke="#333"/>
+<circle cx="331.4" cy="92.8" r="2.2" fill="white" stroke="#333"/>
+<circle cx="315.5" cy="108.6" r="2.2" fill="white" stroke="#333"/>
+<circle cx="108.6" cy="331.4" r="5.6" fill="white" stroke="#333"/>
+<circle cx="108.6" cy="315.5" r="2.2" fill="white" stroke="#333"/>
+<circle cx="92.8" cy="331.4" r="2.2" fill="white" stroke="#333"/>
+<circle cx="108.6" cy="347.2" r="2.2" fill="white" stroke="#333"/>
+<circle cx="124.5" cy="331.4" r="2.2" fill="white" stroke="#333"/>
+<circle cx="331.4" cy="331.4" r="5.6" fill="white" stroke="#333"/>
+<circle cx="315.5" cy="331.4" r="2.2" fill="white" stroke="#333"/>
+<circle cx="331.4" cy="347.2" r="2.2" fill="white" stroke="#333"/>
+<circle cx="347.2" cy="331.4" r="2.2" fill="white" stroke="#333"/>
+<circle cx="331.4" cy="315.5" r="2.2" fill="white" stroke="#333"/>
+<circle cx="198.7" cy="198.7" r="2.2" fill="white" stroke="#333"/>
+<circle cx="241.3" cy="198.7" r="2.2" fill="white" stroke="#333"/>
+<circle cx="198.7" cy="241.3" r="2.2" fill="white" stroke="#333"/>
+<circle cx="241.3" cy="241.3" r="2.2" fill="white" stroke="#333"/>
+<circle cx="199.0" cy="171.0" r="2.2" fill="white" stroke="#333"/>
+<circle cx="241.0" cy="171.0" r="2.2" fill="white" stroke="#333"/>
+<circle cx="199.0" cy="269.0" r="2.2" fill="white" stroke="#333"/>
+<circle cx="241.0" cy="269.0" r="2.2" fill="white" stroke="#333"/>
+<circle cx="220.0" cy="178.7" r="2.2" fill="white" stroke="#333"/>
+<circle cx="220.0" cy="168.9" r="2.2" fill="white" stroke="#333"/>
+<text x="220.0" y="152.8" text-anchor="middle">front</text>
+<text x="10" y="460">v0 frame, top view. Dashed: props and battery. Wheelbase 225 mm.</text>
+</svg>
