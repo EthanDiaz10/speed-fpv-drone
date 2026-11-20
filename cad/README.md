@@ -8,6 +8,8 @@ For each version, export:
 - **Screenshot / render** (`.png`): so people can see the design without opening CAD
 - Optionally the **Fusion archive** (`.f3d`)
 
+Some parts are built by a Fusion 360 API script instead of by hand (for example `cad/v0.2/v0_frame/`). The script is the source of the design, so changes show up as small edits in Git.
+
 Big files (`.stl`, `.step`, `.f3d`, `.3mf`) are stored with **Git LFS** (see `.gitattributes`). Run `git lfs install` once on your computer before committing them.
 
 Tip: your live working model stays in Fusion's cloud with its own version history. Export here at each milestone so the repo shows the evolution.

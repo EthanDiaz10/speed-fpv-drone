@@ -1,0 +1,10 @@
+{
+	"autodeskProduct": "Fusion",
+	"type": "script",
+	"author": "Ethan Diaz",
+	"description": {
+		"": "Builds the v0 printed 5 inch X frame"
+	},
+	"supportedOS": "windows|mac",
+	"editEnabled": true
+}

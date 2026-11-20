@@ -11,3 +11,4 @@ Rules of thumb:
 | Version | Date | Headline | Result |
 |---|---|---|---|
 | [v0.1-concept](v0.1-concept/README.md) | 2026-11 | First concept sketch and sizing | In progress |
+| [v0.2-x-frame](v0.2-x-frame/README.md) | 2026-11 | Printed 5" X frame for v0, modelled with a Fusion 360 script | Modelled, not printed |
