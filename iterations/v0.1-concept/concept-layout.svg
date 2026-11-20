@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 660" width="720" height="990" font-family="Helvetica, Arial, sans-serif" font-size="11">
+<rect width="480" height="660" fill="#ffffff"/>
+<g stroke="#222" fill="none" stroke-width="1.2">
+<path d="M40,215 Q50,191 100,191 L250,191 L380,207 L380,223 L250,239 L100,239 Q50,239 40,215 Z"/>
+<rect x="118" y="115" width="45" height="200"/>
+<circle cx="140" cy="115" r="14"/>
+<circle cx="140" cy="115" r="65" stroke-dasharray="4 3" stroke="#888"/>
+<circle cx="140" cy="315" r="14"/>
+<circle cx="140" cy="315" r="65" stroke-dasharray="4 3" stroke="#888"/>
+<rect x="263" y="115" width="45" height="200"/>
+<circle cx="285" cy="115" r="14"/>
+<circle cx="285" cy="115" r="65" stroke-dasharray="4 3" stroke="#888"/>
+<circle cx="285" cy="315" r="14"/>
+<circle cx="285" cy="315" r="65" stroke-dasharray="4 3" stroke="#888"/>
+<line x1="100" y1="191" x2="100" y2="239" stroke-dasharray="2 2" stroke="#888"/>
+<line x1="100" y1="536" x2="100" y2="584" stroke-dasharray="2 2" stroke="#888"/>
+<line x1="250" y1="191" x2="250" y2="239" stroke-dasharray="2 2" stroke="#888"/>
+<line x1="250" y1="536" x2="250" y2="584" stroke-dasharray="2 2" stroke="#888"/>
+<path d="M40,560 Q50,536 100,536 L250,536 L380,552 L380,568 L250,584 L100,584 Q50,584 40,560 Z"/>
+<line x1="118" y1="560" x2="163" y2="560" stroke-width="3"/>
+<line x1="140" y1="560" x2="105.0" y2="499.4" stroke-dasharray="6 3"/>
+<line x1="58.7" y1="549.2" x2="171.3" y2="484.2" stroke="#888" stroke-dasharray="4 3"/>
+<line x1="263" y1="560" x2="308" y2="560" stroke-width="3"/>
+<line x1="285" y1="560" x2="250.0" y2="499.4" stroke-dasharray="6 3"/>
+<line x1="203.7" y1="549.2" x2="316.3" y2="484.2" stroke="#888" stroke-dasharray="4 3"/>
+<line x1="140" y1="560" x2="140" y2="490" stroke="#888"/>
+</g><g fill="#222">
+<circle cx="212.5" cy="215" r="4"/>
+<text x="212.5" y="231" text-anchor="middle">CG</text>
+<circle cx="212.5" cy="560" r="4"/>
+<text x="212.5" y="576" text-anchor="middle">CG</text>
+</g><g stroke="#222" stroke-width="0.8" fill="none">
+<line x1="40" y1="38" x2="380" y2="38"/><line x1="40" y1="34" x2="40" y2="42"/><line x1="380" y1="34" x2="380" y2="42"/>
+<text x="210.0" y="33" text-anchor="middle" fill="#222" stroke="none">340 overall</text>
+<line x1="40" y1="400" x2="140" y2="400"/><line x1="40" y1="396" x2="40" y2="404"/><line x1="140" y1="396" x2="140" y2="404"/>
+<text x="90.0" y="395" text-anchor="middle" fill="#222" stroke="none">100</text>
+<line x1="140" y1="400" x2="285" y2="400"/><line x1="140" y1="396" x2="140" y2="404"/><line x1="285" y1="396" x2="285" y2="404"/>
+<text x="212.5" y="395" text-anchor="middle" fill="#222" stroke="none">145 motor spacing</text>
+<line x1="415" y1="115" x2="415" y2="315"/><line x1="411" y1="115" x2="419" y2="115"/><line x1="411" y1="315" x2="419" y2="315"/>
+<text x="421" y="219.0" text-anchor="start" fill="#222" stroke="none">200 span</text>
+<line x1="110" y1="191" x2="110" y2="239"/><line x1="106" y1="191" x2="114" y2="191"/><line x1="106" y1="239" x2="114" y2="239"/>
+<text x="114" y="219.0" text-anchor="end" fill="#222" stroke="none">Ø48</text>
+<line x1="40" y1="605" x2="100" y2="605"/><line x1="40" y1="601" x2="40" y2="609"/><line x1="100" y1="601" x2="100" y2="609"/>
+<text x="70.0" y="600" text-anchor="middle" fill="#222" stroke="none">nose 60</text>
+<line x1="100" y1="605" x2="250" y2="605"/><line x1="100" y1="601" x2="100" y2="609"/><line x1="250" y1="601" x2="250" y2="609"/>
+<text x="175.0" y="600" text-anchor="middle" fill="#222" stroke="none">mid body 150</text>
+<line x1="250" y1="605" x2="380" y2="605"/><line x1="250" y1="601" x2="250" y2="609"/><line x1="380" y1="601" x2="380" y2="609"/>
+<text x="315.0" y="600" text-anchor="middle" fill="#222" stroke="none">tail 130</text>
+</g><g fill="#222">
+<text x="10" y="18" font-size="13" font-weight="bold">Top view</text>
+<text x="10" y="450" font-size="13" font-weight="bold">Side view (level at top speed)</text>
+<text x="146" y="502">30° motor tilt</text>
+<text x="10" y="648" fill="#555">v0.1 concept. Dimensions in mm. Dashed circles and lines are the 5.1" prop disks. Nose left.</text>
+</g></svg>
