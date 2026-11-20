@@ -18,7 +18,7 @@ Your commit history becomes a timeline of the build. That's exactly what makes i
 
 ## Your everyday loop
 
-1. Work as normal: export STLs from Fusion into `cad/v0.x/`, add photos to `media/`, write in `docs/build-log.md`.
+1. Work as normal: export STLs from Fusion into `cad/v0.x/`, add photos to `media/`, and add a line to `docs/build-log.md` when you hit a milestone.
 2. Open GitHub Desktop. It lists every changed file.
 3. Write a **summary** at bottom left that says what you did, e.g. `v0.2: first printed fuselage, added build photos`.
 4. Click **Commit to main**, then **Push origin**.

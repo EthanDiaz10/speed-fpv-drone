@@ -4,15 +4,13 @@
 - Always compare **predicted vs actual** (prediction comes from `analysis/` and `cfd/`)
 
 ## Flight log template
+One short file per notable test: `YYYY-MM-DD_<version>.md`
 ```
-# YYYY-MM-DD — vX.Y — <test name>
-Location / weather / wind:
-Battery + props:
-Goal of the test:
-Result (top GPS speed, flight time, max current, temps):
-Problems / crashes:
-Changes for next time:
+Test / goal:
+Result (top speed, flight time):
+Lesson:
 ```
+Raw Blackbox / GPS files go alongside it.
 
 ## Test ladder (don't skip steps)
 1. Bench test: motors spin the right way, failsafe works, props off

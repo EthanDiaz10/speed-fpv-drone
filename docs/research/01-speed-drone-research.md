@@ -128,8 +128,8 @@ Each version has one main question to answer, so each one is a clear chapter in 
 
 ### v0: Learn to fly and build (about 150 km/h)
 - **Goal:** learn the basics without designing anything new yet.
-- Practise in an FPV simulator (Liftoff, Uncrashed or VelociDrone) until you can fly acro mode comfortably. Crashing a sim is free.
 - Build a standard 5" freestyle quad from parts or a kit: solder the ESC, flight controller, receiver and video, set up **Betaflight**, add a GPS module.
+- Before the first flight, practise in an FPV simulator (Liftoff, Uncrashed or VelociDrone).
 - Learn to read **Blackbox** flight logs. Fly a GPS-logged speed run as a baseline.
 - **Portfolio output:** build log, wiring diagram, first speed log.
 

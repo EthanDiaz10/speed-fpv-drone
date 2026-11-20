@@ -40,7 +40,7 @@ For context, the ratified Guinness record is 657.59 km/h (Peregreen V4, Dec 2025
 
 ```
 docs/
-  build-log.md         Dated diary of everything I do, try, break, and learn
+  build-log.md         Short timeline of milestones
   decisions/           One short note per big design decision (what, why, alternatives)
   research/            Reference designs, records, papers, notes
   GITHUB_GUIDE.md      How I use Git/GitHub for this project
@@ -62,7 +62,7 @@ media/                 Photos, renders, videos
 5. **Build + test** → print, assemble, fly, log in `testing/`
 6. **Reflect** → write up the iteration in `iterations/<version>/README.md`, then start the next one
 
-Every step gets a line in the [build log](docs/build-log.md).
+Milestones get a one-line entry in the [build log](docs/build-log.md).
 
 ## Safety
 
