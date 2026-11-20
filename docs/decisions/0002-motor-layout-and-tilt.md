@@ -10,7 +10,7 @@ In the rocket layout the fuselage should point straight into the airflow at top 
 - Motors 200 mm apart left to right and 145 mm front to back. These are the smallest values that keep each prop clear of the body and of the other props.
 - Motors tilted 30° forward relative to the body.
 
-The sizing script (`v1` preset) predicts the thrust is tilted about 27° forward at top speed. 30° rounds this up, because the script underestimates drag (it ignores prop drag and the motors themselves).
+The sizing script (`v1` preset) predicts the thrust is tilted about 26° forward at top speed. 30° rounds this up, because the script underestimates drag (it ignores prop drag and the motors themselves).
 
 ## Alternatives considered
 - **0° tilt (normal quad):** the body would fly nose-down at a steep angle, which throws away the point of a slender body.

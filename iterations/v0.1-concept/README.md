@@ -6,7 +6,7 @@
 |---|---|
 | What changed | First version |
 | Why | Starting point for the Fusion 360 sketch |
-| Result | Predicted 223 km/h (sizing script, `v1` preset). Not built yet |
+| Result | Predicted 218 km/h (sizing script, `v1` preset). Not built yet |
 | Lesson | |
 
 ![Concept layout](concept-layout.svg)

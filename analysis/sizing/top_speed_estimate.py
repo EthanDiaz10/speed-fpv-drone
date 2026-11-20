@@ -24,7 +24,7 @@ import sys
 
 # ---------- Inputs: change these to explore designs ----------
 # Each preset is one design. Run:  python top_speed_estimate.py v1
-# Shared electronics (see electronics/README.md): 2207.5 1950KV motors,
+# Shared electronics (see electronics/README.md): 2207 1900KV motors,
 # 5.1" props, 6S battery. Only the body (mass, drag, lift) changes.
 PRESETS = {
     "v0": dict(               # standard 5" quad, open X frame
@@ -43,7 +43,7 @@ PRESETS = {
 DEFAULT_PRESET = "v1"
 
 n_motors = 4
-motor_kv = 1950           # rpm per volt
+motor_kv = 1900           # rpm per volt
 cells = 6                 # LiPo cell count (6S)
 volts_per_cell_loaded = 3.6   # voltage sags under heavy load
 rpm_load_factor = 0.80    # loaded rpm vs no-load Kv*V (props slow the motor)
